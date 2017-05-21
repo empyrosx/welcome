@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Приветствие</string>
+    <string name="welcome_logo">Логотип Дейтеля</string>
+    <string name="welcome">Добро пожаловать в разработку приложения для Android</string>
+</resources>
